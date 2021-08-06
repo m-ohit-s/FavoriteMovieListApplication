@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Favorite Movies</string>
+    <string name="headingActivity1">Enter Details</string>
+    <string name="movieName">Movie Name</string>
+    <string name="actorName">Actor Name</string>
+    <string name="actressName">Actress Name</string>
+    <string name="directorName">Director Name</string>
+    <string name="yearOfRelease">Year Of Release</string>
+    <string name="AddButtonActivity1">Add To Database</string>
+    <string name="viewMovieListButton">View Movie List</string>
+    <string name="Activity2Label">Movie List in Database</string>
+    <string name="Activity3Label">Movie Details</string>
+</resources>
